@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dca5f32e7faddb16",
+        "id": "d5dbfb1df39c90a8",
         "type": "tabs",
         "children": [
           {
-            "id": "5e45d9ac4692b694",
+            "id": "37b006903684e814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSP.md",
+                "file": "template/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OSP"
+              "title": "index"
+            }
+          },
+          {
+            "id": "31a7dc82e63aab23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "osp/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -160,10 +174,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e45d9ac4692b694",
+  "active": "7b052eddf5ec8b59",
   "lastOpenFiles": [
-    "Template.md",
-    "OSP.md",
+    "osp/index.md",
+    "index.md",
+    "osp/unit 1.md",
+    "osp/index.md",
+    "osp/unit 5.md",
+    "osp/unit 4.md",
+    "osp/unit 3.md",
+    "osp/unit 2.md",
+    "template/unit 5.md",
+    "template/unit 2.md",
+    "template/unit 4.md",
+    "template/unit 3.md",
+    "template/unit 1.md",
+    "template/index.md",
+    "template",
+    "osp",
     "google.com.md",
     "joj.md",
     "2024-11-10.md",

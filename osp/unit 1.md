@@ -13,10 +13,10 @@
 	- Development with Linux.
 ---
 ### Part A
-- [ ] What is GNU(GPL)?
-- [ ] Why every open source software is not free software?
-- [ ] Show the use of `nice -n -20 ./a.out` in Linux OS.
-- [ ] Define a crontab to run a command at 8 PM on the 1st, 10th, and 20th of every month.
+- [ ] What is GNU(GPL)? [^1]
+- [ ] Why every open source software is not free software?[^2]
+- [ ] Show the use of `nice -n -20 ./a.out` in Linux OS.[^3]
+- [ ] Define a crontab to run a command at 8 PM on the 1st, 10th, and 20th of every month.[^1]
 ---
 - [ ] What is the expansion of CMS and ERP?
 - [ ] Define copy left license?
@@ -37,3 +37,7 @@
 ### Part C
 - [ ] Explain the basics syntax and examples of how to use the case statement in bash for pattern matching.
 - [ ] Demonstrate the rules to be followed constructing a Red Black tree for the data 15, 10, 18, 14, 30, 25, 40, 60.
+
+[^1]: klskflksdfds
+[^2]: sdfdsfdsfds
+[^3]: sgfdgdsgdsfsd

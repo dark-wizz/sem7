@@ -14,10 +14,12 @@
 - Arduino - Evolution of IOE and its benefits.
 ---
 ### Part A
-- [ ] 
+- [ ] what are the advantages of raspberry Pi
+- [ ] define GPIO
 
 ### Part B
-- [ ] 
+- [ ] how is raspberry Pi used in IOT?explain
+- [ ] what are the goals of smart surveillance system
 
 ### Part C
 - [ ] 

@@ -17,14 +17,24 @@
 > [!info]- Ans
 > .
 - [ ] What is the golden mean rule?
+> [!info]- Ans
+> .
 - [ ] Show the variety of moral issues.
+> [!info]- Ans
+> .
 - [ ] Tell the 'Senses of enginneering ethics'
+> [!info]- Ans
+> .
 ---
 - [ ] Define resource crunch.
+> [!info]- Ans
+> .
 - [ ] who is professional?
+> [!info]- Ans
+> .
 ---
 - [ ] define normative sense of engineering ethics
-- [ ] state the purpose of conceptual enquiry
+- [ ] state the purpose of conceptual inquiry
 - [ ] relate conflicting reasons to disagreement
 - [ ] what is the use of ethical theories
 
@@ -44,10 +54,11 @@
 
 ### Part C
 - [ ] Explain about the differences of Kohlberg and Gilligan's theory.
+> [!info]- Ans
+> https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_kohlbergs_theory.htm
+https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_gilligans_theory.htm
 - [ ] Illustrate the various types of inquiry. 
----
-- [ ] Identify the models of professional roles.
-- [ ] Utilise the rights approach to ethics.
----
-- [ ] discuss the duty and virtual theory of ethics
+> [!info]- Ans
+> https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_moral_issues.htm
+
 

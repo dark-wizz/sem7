@@ -69,3 +69,4 @@
 	- method name the deposit the deposit a specified amount to the account
 	- create an account object with an ID of 1122 and then balance of 20,000 use the withdraw method to withdraw 2500, use deposit method to deposit 3000 and print the ID balance
 - [ ] develop python programs to implement the different types of inheritance
+

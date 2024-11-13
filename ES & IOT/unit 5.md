@@ -22,4 +22,7 @@
 - [ ] what are the goals of smart surveillance system
 
 ### Part C
-- [ ] 
+- [ ] compare the following 
+	- IOT and IOE 
+	- arduino and raspberry Pi
+- [ ] explain the iot devices and endpoints in detail with the neat diagram

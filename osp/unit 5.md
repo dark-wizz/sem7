@@ -18,6 +18,8 @@
 	```
 - [ ] What is the mangled name of the method `__getname()` defined in a class student?
 - [ ] List down any  4 built-in exceptions of python.
+---
+- [ ] 
 
 ### Part B
 - [ ] Apply sorted function to

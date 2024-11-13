@@ -58,9 +58,39 @@
 - [ ] Develop a Python program to replace all vowels by * in a string.
 ---
 - [ ] show the return value of the following statements given `list1 = [30, 1, 2, 1, 0]` and `list2 = [1, 21 13]`
-- [ ] 
+	- `list1 < list2`
+	- `list1 <= list2`
+	- `list1 == list2`
+	- `list1 != list2`
+	- `list1 > list2`
+	- `list1 >= list2`
+- [ ] translate the following expression into an equivalent python representation
+	- `score = 3 * scale if x > 10 else 4 * scale`
+	- `even = number % 2  == 0`
+	- `y = 1 if x > 0 else -1`
 
 
 ### Part C
 - [ ] Outline the operations of list datatype.
 - [ ] Summarize the methods of string datatype.
+---
+- [ ] illustrate the operations of list data type in python 
+- [ ] show the output of the following block of code
+	```python
+	for i in range(1, 4):
+	  for j in range(1, 4):
+	    if i * j > 2:
+	      break
+	    print(i*j)
+	  print(i)
+
+	```
+	```python
+	for i in range(1, 4):
+	  for j in range(1, 4):
+	    if i * j > 2:
+	      continue
+	    print(i*j)
+	  print(i)
+
+	```

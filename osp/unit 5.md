@@ -45,7 +45,10 @@
 	- Values divisible by 3.
 ---
 - [ ] which of the following function calls are correct for the function header.
-- [ ] defined map and lambda functions to display the following from the list l in the range 1, 11 squares of the values cubes of the values
+	`def f(p1, p2, p3, p4)`
+- [ ] defined map and lambda functions to display the following from the list l in the range(1, 11)
+	- squares of the values
+	- cubes of the values
 
 
 ### Part C
@@ -64,5 +67,5 @@
 	- constructed that creates an account with the specified ID default 0, balance default 100 
 	- method named withdraw that withdraws specified amount from the account
 	- method name the deposit the deposit a specified amount to the account
-	- create an account object with an ID of 1122 and then balance of 20,000 use the withdraw method to withdraw 2500, use desposit method to deposit 3000 and print the ID balance
+	- create an account object with an ID of 1122 and then balance of 20,000 use the withdraw method to withdraw 2500, use deposit method to deposit 3000 and print the ID balance
 - [ ] develop python programs to implement the different types of inheritance

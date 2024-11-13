@@ -18,7 +18,7 @@
 	```
 ---
 - [ ] what is the use of file_exist() function in PHP 
-- [ ] name any two magic constance in PHP
+- [ ] name any two magic constants in PHP
 
 ### Part B
 - [ ] state the use of the following functions

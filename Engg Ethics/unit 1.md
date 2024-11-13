@@ -13,7 +13,7 @@
 - Uses of Ethical Theories.
 ---
 ### Part A
-- [ ] Recall Heinz Dilemma.
+- [ ] Recall Heinz Dilemma.<details><summary>answer</summary>this is ans</details>
 - [ ] What is the golden mean rule?
 - [ ] Show the variety of moral issues.
 - [ ] Tell the 'Senses of enginneering ethics'

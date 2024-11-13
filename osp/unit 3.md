@@ -16,9 +16,22 @@
 	```php
 	chmod("myfile.txt", 0644)
 	```
+---
+- [ ] what is the use of file_exist() function in PHP 
+- [ ] name any two magic constance in PHP
 
 ### Part B
-- [ ] 
+- [ ] state the use of the following functions
+	- open_dir()
+	- rewinddir()
+	- chdir()
+	- mkdir()
+	- rmdir()
+	- dirname()
+- [ ] what is the use of `trim()` and `explode()` in PHP?
 
 ### Part C
 - [ ] Describe file handling in PHP.
+---
+- [ ] develop a PHP script to connect to a database and for managing the table
+- [ ] with examples explain the available functions in PHP to read data from a file

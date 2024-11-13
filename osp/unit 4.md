@@ -28,6 +28,13 @@
 	score = 3*scale if x>10 else 4*scale
 	```
 - [ ] What is `2 * list1` if `list1 = [30, 1, 2, 1, 0]`
+---
+- [ ] how do you fix there in the following statement? 
+	```php
+	title = "Chapter " + 1 3.11
+	```
+- [ ] find the result of the expression `a = 2 * 3 + 4 % 5 - 3 // 2 + 6`
+
 
 ### Part B
 - [ ] Interpret the following block of code.
@@ -49,6 +56,10 @@
 	```
 - [ ] Develop a Python program to find the elements that are divided by 5 or 7 from a list and display in ascending order.
 - [ ] Develop a Python program to replace all vowels by * in a string.
+---
+- [ ] show the return value of the following statements given `list1 = [30, 1, 2, 1, 0]` and `list2 = [1, 21 13]`
+- [ ] 
+
 
 ### Part C
 - [ ] Outline the operations of list datatype.

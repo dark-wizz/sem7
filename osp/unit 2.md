@@ -48,6 +48,14 @@
 	echo "Result: $s;"
 	```
 - [ ] Outline a PHP script to check whether the given number is prime.
+---
+- [ ] illustrate break and continue statements in PHP
+- [ ] demonstrate the use of variable length arguments
+
 
 ### Part C
 - [ ] Explain looping statements in PHP with examples.
+---
+- [ ] build PHP script to check whether a number
+	- [ ] odd or even
+	- [ ] prime or not

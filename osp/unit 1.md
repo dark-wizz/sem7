@@ -33,7 +33,12 @@
 | B       | 4ms        |
 | C       | 16ms       |
 | D       | 4ms        |
+---
+- [ ] outline the structure of Linux OS
 
 ### Part C
 - [ ] Explain the basics syntax and examples of how to use the case statement in bash for pattern matching.
 - [ ] Demonstrate the rules to be followed constructing a Red Black tree for the data 15, 10, 18, 14, 30, 25, 40, 60.
+---
+- [ ] Demonstrate the rules to be followed constructing a Red Black tree for the data 7, 15, 5, 13, 25
+- [ ] explain user mode and kernel more process of the Linux operating system

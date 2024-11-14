@@ -115,6 +115,3 @@
   > > Confidentiality serves as a key pillar in professional settings by enabling ethical decision-making, protecting sensitive information, and building an atmosphere of mutual respect. In the context of collective bargaining and conflicts of interest, confidentiality allows fair, unbiased negotiations and ethical behavior, leading to enhanced organizational trust and public confidence. Therefore, maintaining confidentiality is essential for integrity in professional environments and for fostering positive workplace relationships.
 
 ---
-
-- [ ] illustrate occupational crimes it's suitable examples
-- [ ] summarise the intellectual property rights

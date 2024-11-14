@@ -87,4 +87,5 @@
   > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
 - [ ] Interpret the roles and responsibilities of government regulators in managing safety risks. Compare their approaches in the context of the Chernobyl disaster and the Bhopal gas tragedy, highlighting key differences and similarities.
   > [!info]- Ans
-  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
+  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) 
+  > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)

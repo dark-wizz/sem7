@@ -43,7 +43,6 @@
 ### Part B
 
 - [ ] Interpret the concepts on consensus and controversy.
-
   > [!info]- Ans
   > Consensus and controversy are key concepts in ethical decision- making.
   >

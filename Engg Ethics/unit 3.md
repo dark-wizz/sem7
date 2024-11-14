@@ -83,8 +83,16 @@
 ### Part C
 
 - [ ] Explain how risk benefit analysis can be utilized to evaluate safety measures in industrial settings. Discuss the implications of your findings using the Chernobyl and Bhopal case studies as examples.
+  >[!note]- Notes
+  >>[!note]- Chernobyl's case study
+  >>![[Chernobyl's case study]]
+  >
+  >>[!note]- Bhopal gas tragedy
+  >>![[Bhopal gas tragedy]]
+  
   > [!info]- Ans
-  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
+  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) 
+  > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
 - [ ] Interpret the roles and responsibilities of government regulators in managing safety risks. Compare their approaches in the context of the Chernobyl disaster and the Bhopal gas tragedy, highlighting key differences and similarities.
   > [!info]- Ans
   > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) 

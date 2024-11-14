@@ -1,0 +1,10 @@
+- nuclear accident - nuclear power plant - april 26, 1986 - all over the europe
+- nuclear meltdown - reactors - ukraine
+- 4 reactors - 1k MWs electic power
+- exprreiment - circulating pump backup power
+- aim of experiment: core cooling - loss of power
+- without safety dept. 
+- reacter - must 700-1000 MW - prior shutdown
+- reactor control rod so far - 30MW
+- rod removal - 200MW - waremer feed water
+- 400x - hiroshima bombing

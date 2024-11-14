@@ -118,6 +118,9 @@
 ### Part C
 
 - [ ] Interpret the Challenger case study.
+  >[!note]- Notes
+  >![[Challenger case study]]
+  
   > [!info]- Ans
   > The Challenger disaster on January 28, 1986, involved the failure of NASA’s space shuttle Challenger, killing all seven crew members just 73 seconds after liftoff. This tragic event was caused by a technical failure in the solid rocket boosters (SRBs) and compounded by management’s disregard for engineering concerns, raising serious ethical questions about safety and decision-making.
   >
@@ -140,7 +143,7 @@
   >
   > > [!info]- **Long-Term Impact and Conclusion**
   > > The Challenger disaster’s legacy includes improvements in NASA’s safety culture and reinforced ethical training in engineering disciplines. This event underscores the vital importance of prioritizing public welfare, safety, and ethical integrity over deadlines or political considerations. Today, Challenger serves as a reminder of the ethical obligations engineers and managers hold in ensuring decisions are made responsibly, transparently, and with the utmost regard for human life.
-- [ ] Explain as Engineers as responsible experimenters with example.
+- [x] Explain as Engineers as responsible experimenters with example.
   > [!info]- Ans
   > In engineering ethics, engineers are viewed as responsible experimenters, a concept emphasizing the need for ethical accountability in their work. Engineers must approach new technologies with caution, conduct thorough testing, and assess risks to public safety. They must also be transparent, sharing their findings openly, and seek continual improvement from both failures and successes.
   >

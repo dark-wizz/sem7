@@ -1,0 +1,5 @@
+- 1984 - pesticide production plant - UCIL(Union Carbide Indian Limited)
+- backfloe of water - MIC tank
+- 03/12/1984 - 40tons - MIC(Methyl Iso Cyanate) - spread in air
+- UCC(Union Carbide Carporation) - CBI - water - MIC tank
+- 3.7k+ deaths + 8k dies in 2 weeks + 8k+ diseased

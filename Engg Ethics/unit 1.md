@@ -123,7 +123,8 @@
 
 - [ ] Explain about the differences of Kohlberg and Gilligan's theory.
   > [!info]- Ans
-  > **Kohlberg theory** > https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_kohlbergs_theory.htm > **Gilligan's theory** > https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_gilligans_theory.htm
+  > [Kohlberg theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_kohlbergs_theory.htm)
+  > [Gilligan's theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_gilligans_theory.htm)
 - [ ] Illustrate the various types of inquiry.
   > [!info]- Ans
-  > https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_moral_issues.htm
+  > [various types of inquiry](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_moral_issues.htm)

@@ -14,7 +14,6 @@
 - Professional Ideals and Virtues
 - Uses of Ethical Theories.
 - test
-- test 2
 
 ---
 

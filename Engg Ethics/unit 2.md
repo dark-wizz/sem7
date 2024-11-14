@@ -15,9 +15,17 @@
 ### Part A
 
 - [ ] Name the company that built Two solid rocket boosters for challenger.
+  > [!info]- Ans
+  > Morton Thiokol was the company responsible for building the two solid rocket boosters for the Space Shuttle Challenger.
 - [ ] List the code of ethics
+  > [!info]- Ans
+  > Common engineering codes of ethics include honesty, integrity, fairness, accountability, and a commitment to safety and welfare of the public.
 - [ ] What is the cause of the disaster of challenger?
+  > [!info]- Ans
+  > The Challenger disaster was caused by the failure of O-rings in cold temperatures, which led to the explosion shortly after launch.
 - [ ] Define whistle blowing. What type of whistle blowing in challenger case?
+  > [!info]- Ans
+  > Whistleblowing is the act of exposing unethical or illegal activities within an organization. The Challenger case involved internal whistleblowing by engineers who raised safety concerns before the launch.
 
 ---
 

@@ -35,17 +35,10 @@
 
 - [ ] Define resource crunch.
   > [!info]- Ans
-  > .
+  > A situation where the demand for resources (such as time, money, personnel, or materials) exceeds their availability, leading to challenges in completing projects or tasks efficiently.
 - [ ] who is professional?
   > [!info]- Ans
-  > .
-
----
-
-- [ ] define normative sense of engineering ethics
-- [ ] state the purpose of conceptual inquiry
-- [ ] relate conflicting reasons to disagreement
-- [ ] what is the use of ethical theories
+  > An individual who possesses specialized knowledge and skills in a particular field and adheres to established ethical standards and codes of conduct within that profession.
 
 ### Part B
 
@@ -117,14 +110,23 @@
 ---
 
 - [ ] compare normative inquiry with conceptional in inquiry.
+  > [!info]- Ans
+  > Normative inquiry focuses on determining what ought to be, emphasizing ethical and moral judgments, often guiding actions and behavior. It aims to establish standards or norms. Conceptual inquiry, on the other hand, explores the meanings and structures of concepts and ideas, seeking to clarify and define terms and frameworks. While normative inquiry evaluates value-based actions, conceptual inquiry is concerned with understanding the concepts behind those actions.
+  >
+  > > [!info]- Scenario
+  > > Normative inquiry can be seen in ethical debates such as the regulation of autonomous vehicles. For instance, should self-driving cars prioritize the safety of passengers over pedestrians in emergency situations? The normative question focuses on what society deems "right" in these life-or-death scenarios. In contrast, conceptual inquiry would involve analyzing the meaning of terms like "autonomy" or "moral agency," which underpin these discussions.
 - [ ] explain Gilligans theory in brief.
+  > [!info]- Ans
+  > Gilligan's theory of moral development emphasizes the ethics of care, suggesting that women tend to prioritize relationships, empathy, and care in moral decision-making, as opposed to the justice-based approach proposed by Kohlberg. According to Gilligan, moral growth involves understanding the importance of care and maintaining relationships, particularly in situations of conflict, which challenges traditional male-centered views of ethics.
+  >
+  > > [!info]- Scenario
+  > > Gilligan's ethics of care can be observed in medical settings, where a doctor might prioritize a patient's well-being and comfort over strict protocols or impersonal treatment, particularly when dealing with emotionally distressing diagnoses. This approach contrasts with the more justice-oriented approach of maximizing efficiency or resources in healthcare.
 
 ### Part C
 
 - [ ] Explain about the differences of Kohlberg and Gilligan's theory.
   > [!info]- Ans
-  > [Kohlberg theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_kohlbergs_theory.htm)
-  > [Gilligan's theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_gilligans_theory.htm)
+  > [Kohlberg theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_kohlbergs_theory.htm) > [Gilligan's theory](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_gilligans_theory.htm)
 - [ ] Illustrate the various types of inquiry.
   > [!info]- Ans
   > [various types of inquiry](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_moral_issues.htm)

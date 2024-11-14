@@ -30,13 +30,11 @@
 ---
 
 - [ ] define confidentiality.
+  > [!info]- Ans
+  > The principle of keeping private information secret and ensuring that it is not disclosed to unauthorized individuals or organizations.
 - [ ] recall any one of the employee rights.
-
----
-
-- [ ] what is attitude loyalty?
-- [ ] tell the types of conflicts of interest
-- [ ] who comments occupational crime
+  > [!info]- Ans
+  > One example is the right to a safe and healthy working environment, which ensures that employees are not exposed to unnecessary physical or mental harm.
 
 ### Part B
 
@@ -56,12 +54,17 @@
 ---
 
 - [ ] outline the purpose of collective bargaining
+  > [!info]- Ans
+  > Collective bargaining is the process through which employees, typically represented by a union, negotiate with their employer to establish fair working conditions. The purpose is to address wages, hours, benefits, job security, workplace conditions, and other employment terms. It aims to ensure that employees have a voice in the decisions that affect their work life, leading to better job satisfaction and improved relations between management and staff.
+  >
+  > > [!info]- Scenario
+  > > In a real-world scenario, collective bargaining is used by unions to negotiate fair wages and working conditions. For example, teachers’ unions may negotiate with school districts to secure better pay, smaller class sizes, and improved resources, ensuring teachers’ rights are protected and maintaining good relations between the staff and management.
 - [ ] compare privileged information with proprietary information
-
----
-
-- [ ] summarize the provisions under human rights
-- [ ] illustrate employee rights with any three examples
+  > [!info]- Ans
+  > Privileged information refers to confidential data protected by law, such as attorney-client communications or doctor-patient details, and is not subject to disclosure without consent. Proprietary information, however, refers to intellectual property, trade secrets, or business data that a company owns and keeps secret to maintain a competitive advantage. While privileged information is legally protected, proprietary information is protected for business and competitive reasons.
+  >
+  > > [!info]- Scenario
+  > > In a legal case, privileged information might be attorney-client communications, where a client’s secrets cannot be revealed in court without consent. Conversely, proprietary information in a company might include a formula for a new beverage product, which is kept secret to maintain competitive advantage in the market.
 
 ### Part C
 
@@ -115,8 +118,3 @@
 
 - [ ] illustrate occupational crimes it's suitable examples
 - [ ] summarise the intellectual property rights
-
----
-
-- [ ] survey the various right of a professional
-- [ ] examine the necessity of IPR

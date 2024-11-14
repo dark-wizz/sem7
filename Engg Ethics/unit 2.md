@@ -30,14 +30,11 @@
 ---
 
 - [ ] Tell the meaning of accountability.
+  > [!info]- Ans
+  > The obligation to accept responsibility for one's actions, decisions, and their outcomes, especially in the context of fulfilling duties and commitments.
 - [ ] why are industrial standards important?
-
----
-
-- [ ] tell the need of accountability for an engineer
-- [ ] who established the industrial standard in India
-- [ ] name any one safety in industrial standards
-- [ ] state any one conceptual issue in a Challenger incident
+  > [!info]- Ans
+  > Guidelines or specifications established by industry authorities to ensure quality, safety, and efficiency in manufacturing and services, promoting uniformity and reliability.
 
 ### Part B
 
@@ -106,14 +103,17 @@
 ---
 
 - [ ] discuss the responsibilities of engineer in the society.
+  > [!info]- Ans
+  > Engineers have a responsibility to protect public safety, health, and welfare by adhering to ethical standards, ensuring the safety of their designs and products, and considering the environmental impacts of their work. They must be transparent, honest, and accountable in their professional activities, ensuring that their work does not harm society. Furthermore, engineers are expected tocontinuously improve their knowledge and skills to contribute effectively to the advancement of technology and infrastructure.
+  >
+  > > [!info]- Scenario
+  > > Engineers have a vital responsibility in creating safe and sustainable infrastructure. For instance, civil engineers designing bridges must consider public safety, environmental impact, and future maintenance needs to ensure the bridge is safe, reliable, and efficient for the community's long-term use.
 - [ ] explain the steam boat code in USA
-
----
-
-- [ ] interpret engineering as an iterative process
-- [ ] explain comprehensive perspective of an engineer
-- [ ] outline any three limitations of codes of ethics
-- [ ] discuss the code of hammurabi
+  > [!info]- Ans
+  > The Steamboat Code was a set of regulations introduced in the United States in the 19th century, particularly after the 1838 explosion of a steamboat, to ensure the safety of passengers and crew on steam-powered boats. The code set standards for the construction, operation, and maintenance of steamboats, focusing on safety measures, such as boiler inspections, and required steam engine operators to obtain certifications. It aimed to reduce accidents and ensure the reliability of the growing steamboat industry.
+  >
+  > > [!info]- Scenario
+  > > The Steamboat Code arose after several deadly explosions in the 19th century. For example, after the Sultana steamboat disaster of 1865, new regulations were enforced to inspect steamboat boilers and enforce safety standards, similar to how modern aviation and vehicle regulations ensure safety.
 
 ### Part C
 

@@ -26,13 +26,11 @@
 ---
 
 - [ ] what is destructive testing?
-- [ ] state the voluntary disc
-
----
-
-- [ ] define prototype testing
-- [ ] what is studied in scenery analysis
-- [ ] relate voluntary risk to public risk
+  > [!info]- Ans
+  > A type of testing where the item being tested is damaged or destroyed to assess its durability, strength, or other physical properties.
+- [ ] state the voluntary risk
+  > [!info]- Ans
+  > The risk that an individual knowingly accepts or chooses to undertake, typically in activities where the person has control over the level of exposure.
 
 ### Part B
 
@@ -64,7 +62,23 @@
 ---
 
 - [ ] list down the major reasons of analysis of risk benefit.
+  > [!info]- Ans
+  > The analysis of risk-benefit is essential to weigh the potential harm of a project or action against the benefits it will bring. Major reasons include: 1. Ensuring public safety by identifying potential hazards. 2. Optimizing resource allocation for maximum return. 3. Mitigating risks to prevent disasters and financial loss. 4. Maintaining public trust in engineering practices. 5. Complying with legal and ethical standards to avoid liability.
+  >
+  > > [!info]- Scenario
+  > > Risk-benefit analysis is essential in pharmaceutical development. For instance, when developing a new cancer drug, pharmaceutical companies analyze the potential benefits of curing the disease against the risks of severe side effects,such as organ damage, to determine whether the drug should be approved for public use.
 - [ ] recall the safety lessons from Chernobyl reactor
+  > [!info]- Ans
+  > The Chernobyl disaster teaches several crucial safety lessons:
+  >
+  > 1.  The importance of effective safety protocols and regulations.
+  > 2.  Ensuring transparency and accountability in decision-making.
+  > 3.  Avoiding the suppression of safety concerns for political or financial reasons.
+  > 4.  The necessity of thorough and rigorous training for all personnel.
+  > 5.  The potential dangers of poorly designed systems that lack adequate backup or fail-safe mechanisms.
+  >
+  > > [!info]- Scenario
+  > > The Chernobyl disaster taught the importance of stringent safety protocols and the dangers of neglecting safety concerns. For example, engineers today follow strict safety checks when dealing with nuclear reactors to ensure that no system is compromised, and design redundancies are in place to prevent failures like the Chernobyl meltdown.
 
 ### Part C
 
@@ -73,5 +87,4 @@
   > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
 - [ ] Interpret the roles and responsibilities of government regulators in managing safety risks. Compare their approaches in the context of the Chernobyl disaster and the Bhopal gas tragedy, highlighting key differences and similarities.
   > [!info]- Ans
-  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm)
-  > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)
+  > [Chernobyl case study](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_chernobyls_case_study.htm) > [Bhopal gas tragedy](https://www.tutorialspoint.com/engineering_ethics/engineering_ethics_bhopals_gas_tragedy.htm)

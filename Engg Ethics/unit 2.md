@@ -9,7 +9,6 @@
 - Industrial Standards
 - A Balanced Outlook on Law
 - The Challenger Case Study.
-- test
 
 ---
 

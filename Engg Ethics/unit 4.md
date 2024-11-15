@@ -17,34 +17,34 @@
 
 ### Part A
 
-- [ ] Define Collegiality in the workplace and its importance in professional relationships.
+- [x] Define Collegiality in the workplace and its importance in professional relationships.
   > [!info]- Ans
   > Collegiality involves cooperation and respect among colleagues, fostering positive relationships and teamwork.
-- [ ] Identify two elements of collective bargaining that impact employee rights.
+- [x] Identify two elements of collective bargaining that impact employee rights.
   > [!info]- Ans
   > Wage negotiation and working conditions are central elements that affect employee rights
-- [ ] List the main types of discrimination recognized in workplace policies.
+- [x] List the main types of discrimination recognized in workplace policies.
   > [!info]- Ans
   > Recognized types include discrimination based on race, gender, age, disability, and religion.
 
 ---
 
-- [ ] define confidentiality.
+- [x] define confidentiality.
   > [!info]- Ans
   > The principle of keeping private information secret and ensuring that it is not disclosed to unauthorized individuals or organizations.
-- [ ] recall any one of the employee rights.
+- [x] recall any one of the employee rights.
   > [!info]- Ans
   > One example is the right to a safe and healthy working environment, which ensures that employees are not exposed to unnecessary physical or mental harm.
 
 ### Part B
 
-- [ ] Outline the major components of collective bargaining agreements, and provide examples of issues typically addressed in these negotiations.
+- [x] Outline the major components of collective bargaining agreements, and provide examples of issues typically addressed in these negotiations.
   > [!info]- Ans
   > Collective bargaining agreements cover wages, working conditions, benefits, job security, and dispute resolution mechanisms. For example, agreements may address salary adjustments, health benefits, and overtime compensation. These negotiations ensure that both employer and employee interests are met while fostering a fair and stable work environment.
   >
   > > [!info]- Scenario
   > > In the automobile industry, unionized workers negotiate collective bargaining agreements that include wage increases, healthcare benefits, and workplace safety standards. These agreements help maintain fair treatment and improve employee relations by ensuring both sides reach a mutually beneficial resolution.
-- [ ] Describe what constitutes a conflict of interest in a professional environment , and give an example of how it might arise in the workplace.
+- [x] Describe what constitutes a conflict of interest in a professional environment , and give an example of how it might arise in the workplace.
   > [!info]- Ans
   > A conflict of interest occurs when a professional's personal interests conflict with their professional responsibilities. An example is a project manager overseeing the selection of a supplier in which they have a financial stake, leading to biased decision-making. It’s crucial to avoid such conflicts to maintain integrity and ensure fair decision-making.
   >
@@ -53,13 +53,13 @@
 
 ---
 
-- [ ] outline the purpose of collective bargaining
+- [x] outline the purpose of collective bargaining
   > [!info]- Ans
   > Collective bargaining is the process through which employees, typically represented by a union, negotiate with their employer to establish fair working conditions. The purpose is to address wages, hours, benefits, job security, workplace conditions, and other employment terms. It aims to ensure that employees have a voice in the decisions that affect their work life, leading to better job satisfaction and improved relations between management and staff.
   >
   > > [!info]- Scenario
   > > In a real-world scenario, collective bargaining is used by unions to negotiate fair wages and working conditions. For example, teachers’ unions may negotiate with school districts to secure better pay, smaller class sizes, and improved resources, ensuring teachers’ rights are protected and maintaining good relations between the staff and management.
-- [ ] compare privileged information with proprietary information
+- [x] compare privileged information with proprietary information
   > [!info]- Ans
   > Privileged information refers to confidential data protected by law, such as attorney-client communications or doctor-patient details, and is not subject to disclosure without consent. Proprietary information, however, refers to intellectual property, trade secrets, or business data that a company owns and keeps secret to maintain a competitive advantage. While privileged information is legally protected, proprietary information is protected for business and competitive reasons.
   >
@@ -68,7 +68,7 @@
 
 ### Part C
 
-- [ ] discuss the relationship between collegiality and loyalty in workplace. Explain how these concepts impact employee interactions and organisational culture, provide example to illustrate your points
+- [x] discuss the relationship between collegiality and loyalty in workplace. Explain how these concepts impact employee interactions and organisational culture, provide example to illustrate your points
   > [!info]- Ans
   > In the workplace, collegiality and loyalty are essential for fostering a positive and productive environment, and understanding their relationship can clarify how they impact both employee interactions and organizational culture.
   >
@@ -88,7 +88,7 @@
   >
   > > [!info]- Conclusion
   > > Collegiality and loyalty together cultivate an environment where employees feel valued, respected, and invested in their work. This positive environment encourages teamwork, innovation, and job satisfaction, ultimately contributing to the organization’s success. Balancing these two principles is crucial for creating a workplace that supports individual growth while achieving shared organizational goals.
-- [ ] Analyse the role of confidentiality in maintaining professional integrity and trust. Evaluate its significance in the context of collective bargaining and conflicts of interest using relevant scenarios to support your analysis.
+- [x] Analyse the role of confidentiality in maintaining professional integrity and trust. Evaluate its significance in the context of collective bargaining and conflicts of interest using relevant scenarios to support your analysis.
   > [!info]- Ans
   > Confidentiality is a foundational principle in maintaining professional integrity
   > and trust, as it ensures that sensitive information is shared only when

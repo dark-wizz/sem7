@@ -14,31 +14,31 @@
 
 ### Part A
 
-- [ ] Name the company that built Two solid rocket boosters for challenger.
+- [x] Name the company that built Two solid rocket boosters for challenger.
   > [!info]- Ans
   > Morton Thiokol was the company responsible for building the two solid rocket boosters for the Space Shuttle Challenger.
-- [ ] List the code of ethics
+- [x] List the code of ethics
   > [!info]- Ans
   > Common engineering codes of ethics include honesty, integrity, fairness, accountability, and a commitment to safety and welfare of the public.
-- [ ] What is the cause of the disaster of challenger?
+- [x] What is the cause of the disaster of challenger?
   > [!info]- Ans
   > The Challenger disaster was caused by the failure of O-rings in cold temperatures, which led to the explosion shortly after launch.
-- [ ] Define whistle blowing. What type of whistle blowing in challenger case?
+- [x] Define whistle blowing. What type of whistle blowing in challenger case?
   > [!info]- Ans
   > Whistleblowing is the act of exposing unethical or illegal activities within an organization. The Challenger case involved internal whistleblowing by engineers who raised safety concerns before the launch.
 
 ---
 
-- [ ] Tell the meaning of accountability.
+- [x] Tell the meaning of accountability.
   > [!info]- Ans
   > The obligation to accept responsibility for one's actions, decisions, and their outcomes, especially in the context of fulfilling duties and commitments.
-- [ ] why are industrial standards important?
+- [x] why are industrial standards important?
   > [!info]- Ans
   > Guidelines or specifications established by industry authorities to ensure quality, safety, and efficiency in manufacturing and services, promoting uniformity and reliability.
 
 ### Part B
 
-- [ ] Demonstrate 'A balanced outlook on law'
+- [x] Demonstrate 'A balanced outlook on law'
   > [!info]- Ans
   > A balanced outlook on law involves understanding that legal requirements provide a baseline for behavior but do not define the full scope of ethical responsibility. Laws are essential for setting minimum standards, maintaining order, and protecting rights, but they are often reactive, addressing issues after they arise. Laws can also lag behind technological advances, leaving gaps that professionals must address ethically.
   >
@@ -46,7 +46,7 @@
   >
   > > [!info]- Scenario
   > > A tech company complies with data protection laws in each country it operates in. However, because these laws vary widely, the company adopts a balanced outlook, going beyond legal requirements to implement strict, consistent privacy policies globally. This approach protects users more effectively and enhances the company’s reputation for ethical data handling.
-- [ ] Explain the concepts of Engineering as experimentation.
+- [x] Explain the concepts of Engineering as experimentation.
 
   > [!info]- Ans
   > Engineering as experimentation views engineering projects as experimental processes, where each project is unique, involves risks, and requires careful planning and testing. Unlike controlled scientific experiments, engineering experiments often take place in real-world environments with unpredictable factors.
@@ -56,7 +56,7 @@
   > > [!info]- Scenario
   > > A team of aerospace engineers is developing a new airplane model. They conduct extensive simulations and tests to predict real-world performance, acknowledging that actual use will reveal further insights. Treating the project as an experiment, they prepare for iterative improvements based on post- deployment data, balancing innovation with rigorous safety testing and monitoring.
 
-- [ ] Infer the concepts on Research Ethics.
+- [x] Infer the concepts on Research Ethics.
   > [!info]- Ans
   > Research ethics refers to the principles that guide responsible and respectful
   > conduct in research. Core concepts include:
@@ -102,13 +102,13 @@
 
 ---
 
-- [ ] discuss the responsibilities of engineer in the society.
+- [x] discuss the responsibilities of engineer in the society.
   > [!info]- Ans
   > Engineers have a responsibility to protect public safety, health, and welfare by adhering to ethical standards, ensuring the safety of their designs and products, and considering the environmental impacts of their work. They must be transparent, honest, and accountable in their professional activities, ensuring that their work does not harm society. Furthermore, engineers are expected tocontinuously improve their knowledge and skills to contribute effectively to the advancement of technology and infrastructure.
   >
   > > [!info]- Scenario
   > > Engineers have a vital responsibility in creating safe and sustainable infrastructure. For instance, civil engineers designing bridges must consider public safety, environmental impact, and future maintenance needs to ensure the bridge is safe, reliable, and efficient for the community's long-term use.
-- [ ] explain the steam boat code in USA
+- [x] explain the steam boat code in USA
   > [!info]- Ans
   > The Steamboat Code was a set of regulations introduced in the United States in the 19th century, particularly after the 1838 explosion of a steamboat, to ensure the safety of passengers and crew on steam-powered boats. The code set standards for the construction, operation, and maintenance of steamboats, focusing on safety measures, such as boiler inspections, and required steam engine operators to obtain certifications. It aimed to reduce accidents and ensure the reliability of the growing steamboat industry.
   >
@@ -117,7 +117,7 @@
 
 ### Part C
 
-- [ ] Interpret the Challenger case study.
+- [x] Interpret the Challenger case study.
   >[!note]- Notes
   >![[Challenger case study]]
   

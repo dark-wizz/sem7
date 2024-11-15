@@ -19,19 +19,19 @@
 
 ### Part A
 
-- [ ] Define business ethics and its relative to multinational corporations.
+- [x] Define business ethics and its relative to multinational corporations.
   > [!info]- Ans
   > Business ethics involves moral principles guiding corporate behavior, crucial for maintaining trust and integrity across diverse markets.
-- [ ] Identify two key responsibilities of engineers as expert witnesses in legal contexts.
+- [x] Identify two key responsibilities of engineers as expert witnesses in legal contexts.
   > [!info]- Ans
   > Engineers provide factual, unbiased technical analyses and clarify complex issues in legal settings.
 
 ---
 
-- [ ] show any one property issue of computers.
+- [x] show any one property issue of computers.
   > [!info]- Ans
   > One common issue is intellectual property rights, such as copyright infringement on software or unauthorized use of computer-generated content.
-- [ ] what is competitive bidding.
+- [x] what is competitive bidding.
   > [!info]- Ans
   > A process where multiple vendors or contractors submit bids to win a project, with the lowest or most qualified bid typically being awarded the contract.
 

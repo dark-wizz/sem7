@@ -1,7 +1,9 @@
 # Rasperry PI with Python and Arduino
+
 ---
+
 - Building IOT with RASBERRY PI
-- IoT Systems 
+- IoT Systems
 - Logical Design using Python
 - IoT Physical Devices & Endpoints
 - IoT Device
@@ -12,17 +14,29 @@
 - Programming Raspberry Pi with Python
 - Other IoT Platforms
 - Arduino - Evolution of IOE and its benefits.
+
 ---
+
 ### Part A
+
 - [ ] what are the advantages of raspberry Pi
+  > [!info]- Ans
+  >
+  > - cost
+  > - compact
+  > - customizable
 - [ ] define GPIO
+  > [!info]- Ans
+  > Genral pupose ip/op
 
 ### Part B
-- [ ] how is raspberry Pi used in IOT?explain
-- [ ] what are the goals of smart surveillance system
+
+- [x] how is raspberry Pi used in IOT?explain
+- [x] what are the goals of smart surveillance system
 
 ### Part C
-- [ ] compare the following 
-	- IOT and IOE 
-	- arduino and raspberry Pi
-- [ ] explain the iot devices and endpoints in detail with the neat diagram
+
+- [x] compare the following
+  - IOT and IOE
+  - arduino and raspberry Pi
+- [x] explain the iot devices and endpoints in detail with the neat diagram

@@ -124,3 +124,23 @@
   >   - Analysis tool
 
 - [ ] Discuss data warehouse deployment and maintenance
+  > [!note]- Notes
+  >
+  > - Preparation and setup
+  >   - hw & sw setup
+  >   - install dbms
+  > - data mitigration and integration
+  >   - ETL process
+  >   - data validity
+  > - schema implementation
+  >   - data modeling
+  >   - indexing and partitioning
+  > - security configuration
+  >   - Access control
+  >   - data encryption
+  > - perf opt
+  >   - data indexing
+  >   - query opt
+  > - depoyement testing
+  >   - system testing
+  >   - user acceptance testing

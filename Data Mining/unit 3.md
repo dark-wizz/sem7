@@ -80,6 +80,37 @@
   > [!info]- Ans
   > [KDD process](https://www.geeksforgeeks.org/kdd-process-in-data-mining/)
 
+  > [!note]- Notes
+  > ![[img/kdd.png]]
+  > - data cleaning
+  > - data integration
+  > 	- mitigation
+  > 	- synchronization
+  > 	- ETL
+  > - data selection
+  > 	- select relevent data by following
+  > 		- neural network
+  > 		- decision trees
+  > 		- naive bayes
+  > 		- clustering
+  > 		- regression
+  > - data transformation
+  > 	- data mapping
+  > 	- code generation
+  > - data mining
+  > 	- data to patterns
+  > 		- classification
+  > 		- characterization
+  > - pattern evaluation
+  > - knowledge representation
+
 - [ ] illustrate apriori algorithm to find associations in frequent itemset
   > [!info]- Ans
   > [Apriori algorithm](https://www.geeksforgeeks.org/apriori-algorithm/)
+  
+  >[!note]- Note
+  >```
+  >All  subsets of frequent itemset must be frequent
+  >if an itemset is infrequent, all its superset will be infrequent
+  >```
+  >`confidence(A -> B) = supp(A U B) / supp(A)`

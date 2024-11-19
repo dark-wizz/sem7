@@ -1,5 +1,7 @@
 # Types of OLAP Servers
+
 ---
+
 - Three Tier data warehouse architecture
 - Distributed and virtual data warehouses
 - Data warehouse implementation
@@ -13,32 +15,112 @@
 - Data Warehousing and Business Intelligence Trends
 - Business Applications
 - Tools
-	- SAS.
----
-### Part A
-- [ ] how do you test a data warehouse
-- [ ] what is meant by business intelligence
-- [ ] list the types of olap service
-- [ ] recall any two significant aspects of data warehouse visualisation
----
-- [ ] what is virtual data warehouse 
-- [ ] recall any significant aspect of data warehouse deployment
+  - SAS.
 
+---
+
+### Part A
+
+- [ ] how do you test a data warehouse
+  > [!info]- Ans
+  >
+  > - data validation
+  > - ETL testing
+  > - performance testing
+  > - integration testing
+- [ ] what is meant by business intelligence
+  > [!info]- Ans
+  > the process of collecting, analyzing and presenting data to help businesses make strategoc decisions
+- [ ] list the types of olap service
+  > [!info]- Ans
+  >
+  > - ROLAP
+  > - MOLAP
+  > - HOLAP
+- [ ] recall any two significant aspects of data warehouse visualisation
+  > [!info]- Ans
+  >
+  > - pattern indentification
+  > - easy understanding
+  > - better decisions making
+
+---
+
+- [ ] what is virtual data warehouse
+  > [!info]- Ans
+  > method of storing, managing and analyzing large amount of data using cloud computng and other techs
+- [ ] recall any significant aspect of data warehouse deployment
+  > [!info]- Ans
+  >
+  > - strategic plannning
+  > - architectural decisions
+  > - operationalism
+  > - continuous management
 
 ### Part B
-- [ ] outline the features of tuning a date warehouse
-- [ ] compare distributed and virtual data warehouse
-- [ ] explain business intelligence in brief
-- [ ] Summarise the sallient features of SAS.
----
-- [ ] explain the tuning of data warehouse
-- [ ] Show how business intelligence is different from data mining
 
+- [ ] outline the features of tuning a date warehouse
+  > [!info]- Ans
+  >
+  > - indexing
+  > - partitioning
+  > - cachhing
+  > - query optimization
+- [ ] compare distributed and virtual data warehouse
+  > [!note]- Notes
+  >
+  > ###### distributed
+  >
+  > - data distributed multiple servers
+  > - improve performance and scalability
+  >
+  > ###### virtual
+  >
+  > - logically integrated from diff sources
+  > - physically in og loc
+  > - cost efficient
+  > - pref limits
+- [ ] explain business intelligence in brief
+  > [!note]- Notes
+  >
+  > - data collecting
+  > - analysis
+  > - visualisation
+  > - decision-making
+- [ ] Summarise the sallient features of SAS.
+  > [!note]- Note
+  >
+  > ###### Statistical Analusis Tool
+  >
+  > - strong ananlysis
+  > - various data format support
+  > - management
+  > - flex prog lang
+  > - data encryption
+  > - report op format
+
+---
 
 ### Part C
+
 - [ ] explain the three tier date warehouse architecture
+
+  > [!info]- Ans
+  > [Three tier DW arch](https://www.educba.com/three-tier-data-warehouse-architecture/) > [!note]- Notes
+
+  > [!note]- Notes
+  > ![[img/three_tier.png]]
+  >
+  > - Bottom Tire
+  >   - Data source
+  >   - ETL
+  >   - Data warehouse
+  >   - Data mart
+  > - Middle tier
+  >   - olap server
+  > - Top tier
+  >   - Data mining
+  >   - reporting tool
+  >   - Analysis tool
+
 - [ ] Discuss data warehouse deployment and maintenance
----
-
-- [ ] describe the data warehouse deployment in detail
-

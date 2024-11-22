@@ -72,7 +72,20 @@
   > l.sort()
   > print(l)  # [10, 14, 20, 25, 28, 35, 49, 50]
   > ```
+  
 - [ ] Develop a Python program to replace all vowels by \* in a string.
+> [!info]- Ans
+> ```python
+> s = input("enter: ")
+> v = ["a", "e", "i", "o", "u", "A", "E", "I", "O", "U"]
+> t = ""
+> for i in s:
+> if i in v:
+> t += "*"
+>     else:
+>             t += i
+>             print(t)
+> ```
 
 ---
 
@@ -91,7 +104,62 @@
 ### Part C
 
 - [ ] Outline the operations of list datatype.
+> [!note]- Notes
+> ###### operation
+> 1. indexing
+> 2. slicing
+> 3. concatination
+> 4. updation
+> 5. repetation
+> 6. mambership
+> 7. comparison
+> ###### methods
+> - a.append(e)
+> - a.extend(arr)
+> - a.push(e)
+> - a.pop()
+> - a.pop(e)
+> - a.index(e)
+> - a.sort()
+> - a.reverse()
+> - a.count()
+> - a.pop()
+> - len(a)
+> - min(a)
+> - max(a)
+> - a.clear
 - [ ] Summarize the methods of string datatype.
+> [!note]- Notes
+> ###### operations
+> 1. indexing
+> 2. concat
+> 3. slice
+> 4. repetation
+> 5. membership
+> 6. comaprison
+> ###### methods
+> - s.capitalize()
+> - s.upper()
+> - s.lower()
+> - s.title()
+> - s.swapcase()
+> - s.split()
+> - s.center(width, filller)
+> - s.replace(old, new)
+> - s.join(c)
+> - s.isupper()
+> - s.islower()
+> - s.isalpha()
+> - s.isdigit()
+> - s.isalnum()
+> - s.isspace()
+> - s.title()
+> - s.startswith(Str)
+> - s.endswith(str)
+> - s.find(substr)
+> - len(S)
+> - min(s)
+> - max(s)
 
 ---
 

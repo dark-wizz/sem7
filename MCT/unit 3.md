@@ -9,7 +9,6 @@
 - MPEG audio, progressive encoding for audio
 - Silence compression, Speech compression techniques
 - Vocoders.
-![[UNIT 1-SCALAR QUANTIZTION.pdf]]
 ---
 ### Part A
 - [ ] what is coding techniques

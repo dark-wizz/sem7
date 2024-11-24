@@ -38,4 +38,3 @@
 - [ ] in for the percentage of efficiency for husband and code procedure to be following message ensemble
 	- X={X1, X2, X3, X4, X5,X6}
 	- P= {1/5,1/5,1/5,1/5,1/5,1/5)
-
